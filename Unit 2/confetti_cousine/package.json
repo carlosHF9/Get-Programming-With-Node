@@ -1,0 +1,20 @@
+{
+  "name": "confetti_cousine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "author": "Carlos Frey",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-ejs-layouts": "^2.5.1",
+    "http-status-codes": "^2.2.0",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.2"
+  }
+}
